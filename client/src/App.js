@@ -7,6 +7,9 @@ function App() {
         <div className="new-chat-button">
             + &nbsp; &nbsp; New Chat
         </div>
+        <div>
+          Chats
+        </div>
       </aside>
 
       <section className="chatbox">
