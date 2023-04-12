@@ -54,6 +54,28 @@
   font-size: 1.2rem;
 }
 
+.chat-log{
+  padding: 24px;
+  text-align: left;
+  display: flex;
+}
+
+.chat-message{
+  padding: 12px;
+  display: flex;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.avatar{
+  background: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.message{
+  padding-left: 40px;
+  padding-right: 40px;}
+
 
 .App-header {
   background-color: #282c34;
